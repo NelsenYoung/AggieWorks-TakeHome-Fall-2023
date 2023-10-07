@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  margin: 70px 0;
+}
+
+.col-4{
+  display: inline-block;
+  float: left;
+  flex-basis: 25%;
+  padding: 10px;
+  min-width: 200px;
+  margin-bottom: 50px;
+}

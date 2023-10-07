@@ -1,0 +1,11 @@
+setup.py
+package1/__init__.py
+package1/crud.py
+package1.egg-info/PKG-INFO
+package1.egg-info/SOURCES.txt
+package1.egg-info/dependency_links.txt
+package1.egg-info/top_level.txt
+package1/subpackage1/__init__.py
+package1/subpackage1/database.py
+package1/subpackage1/models.py
+package1/subpackage1/schemas.py
